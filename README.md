@@ -32,7 +32,7 @@ omdb.api.key=API_KEY
 Clone the project
 
 ```bash
-  git clone https://github.com/Moiso2001/
+  git clone https://github.com/Moiso2001/OmdbApi.git
 ```
 
 Go to the project directory
