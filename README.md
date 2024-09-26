@@ -63,5 +63,5 @@ Alternatively, you can generate the JAR file:
 
 
 ```bash
-  java -jar target/pokesoap-0.0.1-SNAPSHOT.jar
+  java -jar target/becritic-0.0.1-SNAPSHOT.jar
 ```
